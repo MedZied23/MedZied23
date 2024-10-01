@@ -37,7 +37,14 @@ I'm a third-year Computer Science Engineering student with a strong passion for 
 - **AI-900: Azure AI Fundamentals**: [Microsoft Certification](https://learn.microsoft.com/en-us/users/mohamedziedbououd-9063/credentials/9761ea74c36922e3?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedZied23&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedZied23&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MedZied23&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedZied23&layout=compact&theme=radical&langs_count=6)
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=MedZied23&show_icons=true&hide=contribs,prs&theme=radical)
+
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/medziedbououd/)
