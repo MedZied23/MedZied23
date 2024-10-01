@@ -1,7 +1,13 @@
 # Hi, I'm Mohamed Zied Bououd! 👋
 
-I'm a third-year Computer Science Engineering student at ENICarthage with a strong passion for software development, DevOps, and cloud technologies. I have hands-on experience building scalable applications using modern frameworks and tools. My journey includes working on real-world projects and internships in cloud automation, DevOps pipelines, and web development.
+I'm a third-year Computer Science Engineering student with a strong passion for DevOps and cloud technologies.
 
+## 🛠️ Skills
+- **Programming Languages**: Java, Python, C/C++, PL/SQL, JavaScript
+- **Frameworks**: Spring Boot, Angular, React, React Native
+- **DevOps Tools**: Docker, Jenkins, Kubernetes, Ansible
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn
+  
 ## 🚀 Projects
 - [Stage 1.0](https://github.com/MedZied23/Stage-1.0): A digital internship management platform that automates administrative processes for students and faculty.
   - **Technologies**: Spring Boot, Angular, MySQL
@@ -22,11 +28,6 @@ I'm a third-year Computer Science Engineering student at ENICarthage with a stro
   - Developed a community hub application using Joget DX and customized features using Java.
   - **Technologies**: Java, JavaScript, Joget DX
 
-## 🛠️ Skills
-- **Programming Languages**: Java, Python, C/C++, PL/SQL, JavaScript
-- **Frameworks**: Spring Boot, Angular, React, React Native
-- **DevOps Tools**: Docker, Jenkins, Kubernetes, Ansible
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn
 
 ## 🏆 Achievements
 - **Best Internship Poster**: Awarded for outstanding work at ENICarthage.
